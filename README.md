@@ -6,10 +6,10 @@ Welcome to my curated collection of JavaScript projects! This repository showcas
 
 | Project Name            | Description                                                                                  | Source Code  | Live Demo  |
 |-------------------------|----------------------------------------------------------------------------------------------|--------------|------------|
-| 🧮 Simple Calculator    | Perform calculations with ease using this sleek calculator app with a cute design.           | [GitHub](#)  | [Demo](#)  |
-| ✈️ Passenger Counter     | Count passengers effortlessly and save the number of passengers with a single click.        | [GitHub](#)  | [Demo](#)  |
-| ♠️ Blackjack Game        | Test your luck in this exciting game of blackjack, where the odds are ever-changing.         | [GitHub](#)  | [Demo](#)  |
-| ❌⭕ Tic Tac Toe          | Challenge your friends or the computer in this timeless game of strategy.                    | [GitHub](#)  | [Demo](#)  |
+| 🧮 Simple Calculator    | Perform calculations with ease using this sleek calculator app with a cute design.           | [GitHub](https://github.com/Yumna0019/Calculator)  | [Demo](https://calculator-x-js.netlify.app/)  |
+| ✈️ Passenger Counter     | Count passengers effortlessly and save the number of passengers with a single click.        | [GitHub](https://github.com/Yumna0019/Passenger-Counter-App)  | [Demo](https://passenger-counter-app-x-js.netlify.app/)  |
+| ♠️ Blackjack Game        | Test your luck in this exciting game of blackjack, where the odds are ever-changing.         | [GitHub](https://github.com/Yumna0019/Blackjack-Game)  | [Demo](https://blackjack-game-x-js.netlify.app/)  |
+| ❌⭕ Tic Tac Toe          | Challenge your friends or the computer in this timeless game of strategy.                    | [GitHub](https://github.com/Yumna0019/Tic-Tac-Toe-Game)  | [Demo](https://tic-tac-toe-game-x-js.netlify.app/)  |
 
 ## Contributing
 
