@@ -1,6 +1,7 @@
 # 🚀 JavaScript Projects Extravaganza 🎉
 
-Welcome to my curated collection of JavaScript projects! This repository showcases a diverse array of applications and components, each crafted with care and creativity. Whether you're looking to learn, contribute, or just have some fun exploring, there's something here for everyone. Dive in and enjoy! 🌟
+Welcome to my curated collection of JavaScript projects!
+This repository showcases a diverse array of applications and components, each crafted with care and creativity. Whether you're looking to learn, contribute, or just have some fun exploring, there's something here for everyone. Dive in and enjoy! 🌟
 
 ## Projects
 
