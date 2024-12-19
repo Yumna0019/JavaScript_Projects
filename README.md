@@ -12,6 +12,7 @@ This repository showcases a diverse array of applications and components, each c
 | ♠️ Blackjack Game        | Test your luck in this exciting game of blackjack, where the odds are ever-changing.         | [GitHub](https://github.com/Yumna0019/Blackjack-Game)  | [Demo](https://blackjack-game-x-js.netlify.app/)  |
 | ❌⭕ Tic Tac Toe Game         | Challenge your friends or the computer in this timeless game of strategy.                    | [GitHub](https://github.com/Yumna0019/Tic-Tac-Toe-Game)  | [Demo](https://tic-tac-toe-game-x-js.netlify.app/)  |
 | ⏱️ Stop Watch        | It allows users to start, stop, reset, and track time effectively with an intuitive interface lap.                    | [GitHub](https://github.com/Yumna0019/Stop-Watch)  | [Demo](https://stop-watch-y.netlify.app/)  |
+| 🌦️ Weather App        |  It fetches real-time data from the OpenWeatherMap API and displays details such as temperature, weather condition, and many more.                    | [GitHub](https://github.com/Yumna0019/Weather_app_js)  | [Demo](https://weather-app-js-y.netlify.app/)  |
 | 💻 Responsive Website        | A responsive website built using HTML, CSS, and JavaScript.                 | [GitHub](https://github.com/Yumna0019/My_Website)  | [Demo](https://my-website-yy.netlify.app/)  |
 
 ## Contributing
