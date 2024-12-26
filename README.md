@@ -1,4 +1,4 @@
-# 🚀 JavaScript Projects Extravaganza 🎉
+# 🚀 JavaScript Projects
 
 Welcome to my curated collection of JavaScript projects!<br>
 This repository showcases a diverse array of applications and components, each crafted with care and creativity. Whether you're looking to learn, contribute, or just have some fun exploring, there's something here for everyone. Dive in and enjoy! 🌟
@@ -14,6 +14,7 @@ This repository showcases a diverse array of applications and components, each c
 | ⏱️ Stop Watch        | It allows users to start, stop, reset, and track time effectively with an intuitive interface lap.                    | [GitHub](https://github.com/Yumna0019/Stop-Watch)  | [Demo](https://stop-watch-y.netlify.app/)  |
 | 🌦️ Weather App        |  It fetches real-time data from the OpenWeatherMap API and displays details such as temperature, weather condition, and many more.                    | [GitHub](https://github.com/Yumna0019/Weather_app_js)  | [Demo](https://weather-app-js-y.netlify.app/)  |
 | 💻 Responsive Website        | A responsive website built using HTML, CSS, and JavaScript.                 | [GitHub](https://github.com/Yumna0019/My_Website)  | [Demo](https://my-website-yy.netlify.app/)  |
+| 🚀 Personal Portfolio         |  It showcases my skills, education, projects, and professional journey as a web developer.                 | [GitHub](https://github.com/Yumna0019/Portfolio_JS)  | [Demo](https://my-portfolio-jss.netlify.app/)  |
 
 ## Contributing
 
